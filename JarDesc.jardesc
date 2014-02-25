@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="LVE-Withholding_OC/packages/LVE-Withholding_OC/lib/LVE-Withholding_OC.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/LVE-Withholding_OC/JarDesc.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/LVE-Withholding_OC/.project"/>
+        <file path="/LVE-Withholding_OC/JarDesc.jardesc"/>
+        <javaElement handleIdentifier="=LVE-Withholding_OC/base"/>
+        <file path="/LVE-Withholding_OC/.classpath"/>
+        <file path="/LVE-Withholding_OC/.hgtags"/>
+        <file path="/LVE-Withholding_OC/LVE-Withholding-GenerateModel.launch"/>
+        <file path="/LVE-Withholding_OC/LVE-Withholding.launch"/>
+        <javaElement handleIdentifier="=LVE-Withholding_OC/patches"/>
+    </selectedElements>
+</jardesc>
